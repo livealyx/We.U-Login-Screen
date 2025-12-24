@@ -13,14 +13,3 @@ This project focuses on clean UI, elegant typography, smooth layout, and festive
 ⚡ Lightweight and fast loading
 🧩 Simple vanilla JavaScript animations
 📦 No frameworks — pure HTML/CSS/JS
-
-
-Folder Structure
-01/
-├── index.html
-├── assets/
-│   └── christmas_illustration.png
-├── css/
-│   └── style.css
-└── js/
-    └── script.js
